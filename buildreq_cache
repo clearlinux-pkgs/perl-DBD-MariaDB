@@ -1,0 +1,4 @@
+1.23
+perl(DBI)
+perl(Devel::CheckLib)
+perl(Test::Deep)
