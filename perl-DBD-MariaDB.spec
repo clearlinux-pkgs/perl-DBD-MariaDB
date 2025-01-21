@@ -7,7 +7,7 @@
 #
 Name     : perl-DBD-MariaDB
 Version  : 1.23
-Release  : 5
+Release  : 6
 URL      : https://cpan.metacpan.org/authors/id/P/PA/PALI/DBD-MariaDB-1.23.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/P/PA/PALI/DBD-MariaDB-1.23.tar.gz
 Summary  : 'MariaDB and MySQL driver for the Perl5 Database Interface (DBI)'
